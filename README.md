@@ -2,7 +2,10 @@
 Framework
 ----------------
 * Developed framework for web based applications testing.
-* Developed by Page Factory Model.
+* Developed Using Page Factory Model.
+
+Technologies
+----------------
 * Developed by using SeleniumWD, Java, Maven and TestNG.
 * Added Extent Reports.
 
