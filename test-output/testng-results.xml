@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-08T12:36:37Z" name="example suite 1" finished-at="2018-10-08T12:37:21Z" duration-ms="43752">
+    <groups>
+    </groups>
+    <test started-at="2018-10-08T12:36:37Z" name="Regression suite 1" finished-at="2018-10-08T12:37:21Z" duration-ms="43752">
+      <class name="com.testclasses.ClearTripSignInTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.testclasses.ClearTripSignInTest@71c3b41]" started-at="2018-10-08T18:07:09Z" name="setUP" finished-at="2018-10-08T18:07:17Z" duration-ms="8332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="test()[pri:0, instance:com.testclasses.ClearTripSignInTest@71c3b41]" started-at="2018-10-08T18:07:17Z" name="test" finished-at="2018-10-08T18:07:20Z" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testclasses.ClearTripSignInTest@71c3b41]" started-at="2018-10-08T18:07:20Z" name="tearDown" finished-at="2018-10-08T18:07:21Z" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testclasses.ClearTripSignInTest -->
+      <class name="com.testclasses.ClearTripHotelBookingTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.testclasses.ClearTripHotelBookingTest@157853da]" started-at="2018-10-08T18:06:50Z" name="setUP" finished-at="2018-10-08T18:06:57Z" duration-ms="6379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="test()[pri:0, instance:com.testclasses.ClearTripHotelBookingTest@157853da]" started-at="2018-10-08T18:06:57Z" name="test" finished-at="2018-10-08T18:07:08Z" duration-ms="11691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testclasses.ClearTripHotelBookingTest@157853da]" started-at="2018-10-08T18:07:08Z" name="tearDown" finished-at="2018-10-08T18:07:09Z" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testclasses.ClearTripHotelBookingTest -->
+      <class name="com.testclasses.ClearTripFlightBookingTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.testclasses.ClearTripFlightBookingTest@343570b7]" started-at="2018-10-08T18:06:37Z" name="setUP" finished-at="2018-10-08T18:06:45Z" duration-ms="7405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="test()[pri:0, instance:com.testclasses.ClearTripFlightBookingTest@343570b7]" started-at="2018-10-08T18:06:45Z" name="test" finished-at="2018-10-08T18:06:49Z" duration-ms="4786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testclasses.ClearTripFlightBookingTest@343570b7]" started-at="2018-10-08T18:06:49Z" name="tearDown" finished-at="2018-10-08T18:06:50Z" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testclasses.ClearTripFlightBookingTest -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
